@@ -7,8 +7,9 @@ A beautiful, responsive weather dashboard built with React that provides real-ti
 ![Weather Dashboard](https://img.shields.io/badge/OpenWeather-API-orange)
 ![Weather Dashboard](https://img.shields.io/badge/Responsive-Design-green)
 
-## 🚀 Live Demo
-[View Live Demo](https://your-demo-link.com) *(Add your deployment link)*
+## Preview
+![Weather Dashboard Screenshot](<img width="440" height="347" alt="weather" src="https://github.com/user-attachments/assets/d33e9e35-e565-4d8b-8d3b-6cb0944b2ab1" />
+)
 
 ## ✨ Features
 
@@ -191,7 +192,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## 🙏 Acknowledgments
 
@@ -199,12 +200,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tailwind CSS** for the utility-first CSS framework
 - **Recharts** for beautiful chart components
 - **React Team** for the amazing framework
-
-## 📞 Contact
-
-- **Project Link**: [https://github.com/yourusername/weather-dashboard](https://github.com/yourusername/weather-dashboard)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [Your Portfolio](https://yourportfolio.com)
 
 ---
 
