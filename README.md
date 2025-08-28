@@ -8,8 +8,7 @@ A beautiful, responsive weather dashboard built with React that provides real-ti
 ![Weather Dashboard](https://img.shields.io/badge/Responsive-Design-green)
 
 ## Preview
-![Weather Dashboard Screenshot](<img width="440" height="347" alt="weather" src="https://github.com/user-attachments/assets/d33e9e35-e565-4d8b-8d3b-6cb0944b2ab1" />
-)
+![Weather Dashboard Screenshot]<img width="440" height="347" alt="weather" src="https://github.com/user-attachments/assets/d33e9e35-e565-4d8b-8d3b-6cb0944b2ab1" />
 
 ## ✨ Features
 
@@ -181,7 +180,7 @@ The chart system is easily extensible. Add new metrics by:
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+- Contributions are Welcome!
 
 ### Development Setup
 1. Fork the repository
